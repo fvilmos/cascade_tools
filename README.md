@@ -126,6 +126,7 @@ If there appears a lot of random detections (false positives):
   <a name="tracker" href=""><img src="./info/false_positives.png" alt="400" width="400"></a>
   </th>
 </tr>
+
 - try to adjust the classifier hyperparameters in 'test_cascade.py' file
 ```
 python3 test_cascade.py -n 2 -s 1.2
